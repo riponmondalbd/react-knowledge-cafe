@@ -6,7 +6,7 @@
     "author": "John Doe",
     "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
     "posted_date": "2024-07-01",
-    "reading_time": "15",
+    "reading_time": 15,
     "hashtags": ["Programming", "Coding"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "Jane Smith",
     "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
     "posted_date": "2024-06-15",
-    "reading_time": "20",
+    "reading_time": 20,
     "hashtags": ["MachineLearning", "AI"]
   },
   {
@@ -26,7 +26,7 @@
     "author": "Alice Johnson",
     "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
     "posted_date": "2024-05-25",
-    "reading_time": "10",
+    "reading_time": 10,
     "hashtags": ["DataStructures", "Algorithms"]
   },
   {
@@ -36,7 +36,7 @@
     "author": "Bob Brown",
     "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
     "posted_date": "2024-04-10",
-    "reading_time": "25",
+    "reading_time": 25,
     "hashtags": ["Cybersecurity", "Infosec"]
   },
   {
@@ -46,7 +46,7 @@
     "author": "Carol White",
     "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
     "posted_date": "2024-03-30",
-    "reading_time": "30",
+    "reading_time": 30,
     "hashtags": ["Blockchain", "Cryptocurrency"]
   }
 ]
